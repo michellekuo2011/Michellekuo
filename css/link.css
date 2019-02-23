@@ -1,0 +1,155 @@
+a:link {
+	text-decoration: none;
+	color: Navy;
+	font-size: 10pt;
+}
+a:visited {
+	text-decoration: none;
+	color: Navy;
+	font-size: 10pt;
+}
+a:active {
+	text-decoration: none;
+	color: Navy;
+	font-size: 10pt;
+}
+a:hover {
+	text-decoration:  none;
+	color: #ff0000;
+	font-size: 10pt;
+}
+
+
+.link_title {
+	font-size: 12pt;
+}
+
+.font_title_red {
+	font-size: 12pt;
+	color: #990000;
+	font-weight: bold;
+}
+	
+.font_body{
+	font-size: 10pt;
+}
+	
+.font_body_white{
+	font-size: 10pt;
+	color: White;
+}
+
+ .font_body_foot{
+	font-size: 10pt;
+	color: #cccccc;
+}			
+
+ .font_title{
+	font-size: 12pt;
+}
+
+.font_title_white{
+	font-size: 12pt;
+	color: White;
+}
+
+.font_copyrights{
+	font-size: 10pt;
+	color: #cccccc;
+}
+
+.font_prompt{
+	font-size: 10pt;
+	color: Maroon;
+	font-weight: bold;
+}
+
+.font_admin_work{
+	font-family: "標楷體";
+	font-size: 20pt;
+	color: #990000;
+}
+
+.font_admin_mod{
+	font-size: 12pt;
+	color: Blue;
+}
+
+
+.tab_show{  /* 顯示表格外框 */
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	border-collapse: collapse;
+	font-size: 12px;
+}
+
+.tab_th{  /* 顯示表格標題  */
+  text-align: center;
+  background-color: #ffcc99;
+  border: 1px outset #c8c8ff;
+  /*width: 60px;
+  height:20px;*/
+}
+
+.tab_td{ /* 顯示表格儲存格 */
+  /*text-align: center;*/
+  background-color: #f8f8f8;
+  border: 1px outset #c8c8ff;
+  /*width: 60px;
+  height:20px;*/
+}
+
+.tab_td_item{ /* 顯示表格儲存格 */
+  /*text-align: center;*/
+  background-color: #cccc99;
+  border: 1px outset #c8c8ff;
+  /*width: 60px;
+  height:20px;*/
+}
+
+.tab_rad { /* 圓弧型虛線外框  */
+	line-height: 1.5;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border: 1px dotted #c8c8ff;
+	background-color: #f7f7f7;
+	-moz-border-radius: 10px;
+}
+
+.tab_box { /* 方型虛線外框 */
+	line-height: 1.5;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	border: 1px dotted #c8c8ff;
+	background-color: #f7f7f7;
+}
+
+input.element, textarea {
+	width: 100%;
+	border: 1px dotted #c8c8ff;
+	padding-left: 2px;
+	padding-right: 2px;
+	font-size: 16px;
+}
+th{
+	font-size: 10pt;
+	font-weight: normal;
+}
+
+.input_bt {
+	width: 80px;
+	padding: 1px;
+	font-size: 16px;
+	border: 1px outset #c8c8ff;
+	background-color: #ffff95;
+}
+.body{
+	leftmargin:0;
+	topmargin :0; 
+	rightmargin:0;
+	bottommargin:0;
+}
+
